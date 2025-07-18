@@ -1,0 +1,22 @@
+# Данные
+data/
+
+# Виртуальные окружения
+venv/
+.env/
+
+# Кеши Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Настройки редактора
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи
+*.log
+*.logs
